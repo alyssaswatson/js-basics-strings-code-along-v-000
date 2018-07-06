@@ -3,4 +3,4 @@ const currentUser = 'Me';
 
 var welcomeMessage = "Welcome to Flatbook, ${currentUser}!";
 
-var excitedWelcomeMessage =
+var excitedWelcomeMessage = "";
